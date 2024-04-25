@@ -32,3 +32,7 @@ body.nav-light .carousel-inner::before {
     font-weight: bold; /* Make the text bold on hover */
     border-bottom: 2px solid orange; /* Add orange underline on hover */
 }
+.portfolio-overlay h5 {
+  font-weight: normal;
+}
+
